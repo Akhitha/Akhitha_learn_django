@@ -1,2 +1,2 @@
-# Akhitha_sensorengine_project
+# Akhitha_sensorengine
 tutorial django setup
